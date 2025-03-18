@@ -14,4 +14,4 @@ function adminer_object() {
     return new AdminerPlugin($plugins);
 }
 
-include "./adminer.php";
+include "./adminer-test.php";
